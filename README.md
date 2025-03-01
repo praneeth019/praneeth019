@@ -4,8 +4,10 @@ I’m a Master’s student in Computer Science at Purdue University with a deep 
 
 ## 🔧 **Technical Skills**
 - **Languages:** Python, C++, Go, JavaScript, SQL
+- **Full Stack technologies:** React, Flask, Django, Node.js, FastAPI
 - **Cloud Platforms:** AWS, Linux
-- **Tools & Frameworks:** Kubernetes, Docker, Terraform, React, Django
+- **Tools & Frameworks:** Kubernetes, Docker, Terraform, JIRA, Sonar, Postman
+- **ML and AI libraries:** Huggingface, Langchain, TensorFlow, Pytorch, Keras, Scikit-learn, Spacy
 - **Special Interests:** Computer Vision, Tech in Sports.
 
 ## 🚀 **What I’m Working On**
