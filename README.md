@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Praneeth Reddy Mukthapuram
 
-I’m a Master’s student in Computer Science at Purdue University with a deep interest in computer vision, and technology in sports. My technical journey spans various domains, from enhancing cloud infrastructure to exploring the innovative applications of AI and computer vision.
+I’m a Master’s student in Computer Science at Purdue University with a deep interest in AI and NLP technologies. My technical journey spans various domains, from enhancing cloud infrastructure to exploring the innovative applications of AI and computer vision.
 
 ## 🔧 **Technical Skills**
 - **Languages:** Python, C++, Go, JavaScript, SQL
